@@ -1,0 +1,20 @@
+<html xmlns="http://www.w3.org/1999/html">
+<head>
+    ESPN + Sleeper League Stats
+</head>
+<body>
+    <form method="post" >
+        ESPN ID: <input type="number" name="espn_id"/></br>
+        Sleeper ID: <input type="number" name="sleeper_id"/></br>
+        League Name: <input type="text" name="league_name"/></br>
+        <input type="submit">
+    </form>
+
+<p>ESPN ID: {{result.espn_id}}</p>
+<pre>
+    <code>
+      {{result.data}}
+    </code>
+</pre>
+</body>
+</html>

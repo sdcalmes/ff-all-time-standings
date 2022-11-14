@@ -1,0 +1,1529 @@
+{
+  "data": {
+    "Lathropolis": {
+      "year_data": {
+        "2014": {
+          "regular_standings": {
+            "1": "Sam Calmes",
+            "2": "Drew Davis",
+            "3": "Andy Keal",
+            "4": "justin alt",
+            "5": "Victor Markus",
+            "6": "Jake Folz",
+            "7": "Joey Janz",
+            "8": "James Stecker",
+            "9": "Joe Keal",
+            "10": "Peter Toninato",
+            "11": "Matt Dallman",
+            "12": "Luke Fowler"
+          },
+          "final_standings": {
+            "1": "Sam Calmes",
+            "2": "Drew Davis",
+            "3": "Jake Folz",
+            "4": "Victor Markus",
+            "5": "Andy Keal",
+            "6": "justin alt",
+            "7": "Matt Dallman",
+            "8": "Joey Janz",
+            "9": "Peter Toninato",
+            "10": "Joe Keal",
+            "11": "James Stecker",
+            "12": "Luke Fowler"
+          }
+        },
+        "2015": {
+          "regular_standings": {
+            "1": "Sam Calmes",
+            "2": "justin alt",
+            "3": "Peter Toninato",
+            "4": "Matt Dallman",
+            "5": "Andy Keal",
+            "6": "Drew Davis",
+            "7": "Joe Keal",
+            "8": "Luke Fowler",
+            "9": "Joey Janz",
+            "10": "Jake Folz",
+            "11": "Victor Markus",
+            "12": "James Stecker"
+          },
+          "final_standings": {
+            "1": "Sam Calmes",
+            "2": "Drew Davis",
+            "3": "justin alt",
+            "4": "Matt Dallman",
+            "5": "Andy Keal",
+            "6": "Peter Toninato",
+            "7": "Luke Fowler",
+            "8": "Victor Markus",
+            "9": "James Stecker",
+            "10": "Joey Janz",
+            "11": "Joe Keal",
+            "12": "Jake Folz"
+          }
+        },
+        "2016": {
+          "regular_standings": {
+            "1": "Drew Davis",
+            "2": "James Stecker",
+            "3": "justin alt",
+            "4": "Joey Janz",
+            "5": "Sam Calmes",
+            "6": "Matt Dallman",
+            "7": "Jake Folz",
+            "8": "Luke Fowler",
+            "9": "Andy Keal",
+            "10": "James Olson",
+            "11": "Victor Markus",
+            "12": "Joe Keal"
+          },
+          "final_standings": {
+            "1": "James Stecker",
+            "2": "Joey Janz",
+            "3": "justin alt",
+            "4": "Drew Davis",
+            "5": "Sam Calmes",
+            "6": "Matt Dallman",
+            "7": "Andy Keal",
+            "8": "Victor Markus",
+            "9": "Joe Keal",
+            "10": "Luke Fowler",
+            "11": "Jake Folz",
+            "12": "James Olson"
+          }
+        },
+        "2017": {
+          "regular_standings": {
+            "1": "Luke Fowler",
+            "2": "Drew Davis",
+            "3": "Matt Dallman",
+            "4": "Sam Calmes",
+            "5": "Victor Markus",
+            "6": "Jake Folz",
+            "7": "Joe Keal",
+            "8": "Joey Janz",
+            "9": "Andy Keal",
+            "10": "James Olson",
+            "11": "James Stecker",
+            "12": "justin alt"
+          },
+          "final_standings": {
+            "1": "Luke Fowler",
+            "2": "Drew Davis",
+            "3": "Jake Folz",
+            "4": "Victor Markus",
+            "5": "Matt Dallman",
+            "6": "Sam Calmes",
+            "7": "Joey Janz",
+            "8": "Andy Keal",
+            "9": "James Stecker",
+            "10": "Joe Keal",
+            "11": "James Olson",
+            "12": "justin alt"
+          }
+        },
+        "2018": {
+          "regular_standings": {
+            "1": "Andy Keal",
+            "2": "James Stecker",
+            "3": "James Olson",
+            "4": "Matt Dallman",
+            "5": "Joe Keal",
+            "6": "Drew Davis",
+            "7": "Victor Markus",
+            "8": "Joey Janz",
+            "9": "Jake Folz",
+            "10": "justin alt",
+            "11": "Sam Calmes",
+            "12": "Luke Fowler"
+          },
+          "final_standings": {
+            "1": "James Stecker",
+            "2": "Joe Keal",
+            "3": "Andy Keal",
+            "4": "Drew Davis",
+            "5": "Matt Dallman",
+            "6": "James Olson",
+            "7": "justin alt",
+            "8": "Victor Markus",
+            "9": "Joey Janz",
+            "10": "Jake Folz",
+            "11": "Luke Fowler",
+            "12": "Sam Calmes"
+          }
+        },
+        "2019": {
+          "regular_standings": {
+            "1": "Drew Davis",
+            "2": "Andy Keal",
+            "3": "Victor Markus",
+            "4": "Sam Calmes",
+            "5": "Matt Dallman",
+            "6": "Jake Folz",
+            "7": "James Stecker",
+            "8": "James Olson",
+            "9": "Joey Janz",
+            "10": "Joe Keal",
+            "11": "justin alt",
+            "12": "Luke Fowler"
+          },
+          "final_standings": {
+            "1": "Drew Davis",
+            "2": "Victor Markus",
+            "3": "Sam Calmes",
+            "4": "Andy Keal",
+            "5": "Jake Folz",
+            "6": "Matt Dallman",
+            "7": "Joe Keal",
+            "8": "James Olson",
+            "9": "justin alt",
+            "10": "Joey Janz",
+            "11": "James Stecker",
+            "12": "Luke Fowler"
+          }
+        },
+        "2020": {
+          "regular_standings": {
+            "1": "Drew Davis",
+            "2": "Joey Janz",
+            "3": "Matt Dallman",
+            "4": "Sam Calmes",
+            "5": "justin alt",
+            "6": "Luke Fowler",
+            "7": "James Olson",
+            "8": "Victor Markus",
+            "9": "Joe Keal",
+            "10": "James Stecker",
+            "11": "Jake Folz",
+            "12": "Andy Keal"
+          },
+          "final_standings": {
+            "1": "Drew Davis",
+            "2": "Matt Dallman",
+            "3": "Sam Calmes",
+            "4": "Joey Janz",
+            "5": "Luke Fowler",
+            "6": "justin alt",
+            "7": "James Stecker",
+            "8": "Joe Keal",
+            "9": "Victor Markus",
+            "10": "James Olson",
+            "11": "Jake Folz",
+            "12": "Andy Keal"
+          }
+        },
+        "2021": {
+          "regular_standings": {
+            "1": "Luke Fowler",
+            "2": "Victor Markus",
+            "3": "James Olson",
+            "4": "Joe Keal",
+            "5": "Sam Calmes",
+            "6": "Andy Keal",
+            "7": "Drew Davis",
+            "8": "Joey Janz",
+            "9": "justin alt",
+            "10": "Jake Folz",
+            "11": "James Stecker",
+            "12": "Matt Dallman"
+          },
+          "final_standings": {
+            "1": "James Olson",
+            "2": "Sam Calmes",
+            "3": "Luke Fowler",
+            "4": "Victor Markus",
+            "5": "Andy Keal",
+            "6": "Joe Keal",
+            "7": "justin alt",
+            "8": "Drew Davis",
+            "9": "Joey Janz",
+            "10": "James Stecker",
+            "11": "Matt Dallman",
+            "12": "Jake Folz"
+          }
+        }
+      },
+      "average_regular_standing": {
+        "Drew Davis": 3.25,
+        "Sam Calmes": 4.38,
+        "Andy Keal": 5.88,
+        "Matt Dallman": 6.0,
+        "Victor Markus": 6.5,
+        "Peter Toninato": 6.5,
+        "James Olson": 6.83,
+        "Joey Janz": 6.88,
+        "justin alt": 7.0,
+        "Luke Fowler": 7.5,
+        "James Stecker": 7.88,
+        "Joe Keal": 7.88,
+        "Jake Folz": 8.12
+      },
+      "average_final_standing": {
+        "Drew Davis": 3.0,
+        "Sam Calmes": 4.12,
+        "Matt Dallman": 5.75,
+        "Victor Markus": 5.88,
+        "Andy Keal": 6.12,
+        "justin alt": 6.62,
+        "Joey Janz": 7.38,
+        "James Stecker": 7.38,
+        "Peter Toninato": 7.5,
+        "Luke Fowler": 7.62,
+        "Joe Keal": 7.88,
+        "James Olson": 8.0,
+        "Jake Folz": 8.38
+      },
+      "average_standing_difference": {
+        "Victor Markus": 0.62,
+        "James Stecker": 0.5,
+        "justin alt": 0.38,
+        "Sam Calmes": 0.26,
+        "Drew Davis": 0.25,
+        "Matt Dallman": 0.25,
+        "Joe Keal": 0.0,
+        "Luke Fowler": -0.12,
+        "Andy Keal": -0.24,
+        "Jake Folz": -0.26,
+        "Joey Janz": -0.5,
+        "Peter Toninato": -1.0,
+        "James Olson": -1.17
+      },
+      "head_to_head": [
+        [
+          "Andy Keal",
+          [
+            [
+              "Andy Keal",
+              {
+                "w": 0,
+                "l": 0
+              }
+            ],
+            [
+              "Drew Davis",
+              {
+                "w": 6,
+                "l": 6
+              }
+            ],
+            [
+              "Jake Folz",
+              {
+                "w": 4,
+                "l": 6
+              }
+            ],
+            [
+              "James Olson",
+              {
+                "w": 6,
+                "l": 3
+              }
+            ],
+            [
+              "James Stecker",
+              {
+                "w": 8,
+                "l": 4
+              }
+            ],
+            [
+              "Joe Keal",
+              {
+                "w": 8,
+                "l": 3
+              }
+            ],
+            [
+              "Joey Janz",
+              {
+                "w": 5,
+                "l": 5
+              }
+            ],
+            [
+              "Luke Fowler",
+              {
+                "w": 6,
+                "l": 3
+              }
+            ],
+            [
+              "Matt Dallman",
+              {
+                "w": 6,
+                "l": 8
+              }
+            ],
+            [
+              "Peter Toninato",
+              {
+                "w": 4,
+                "l": 0
+              }
+            ],
+            [
+              "Sam Calmes",
+              {
+                "w": 5,
+                "l": 5
+              }
+            ],
+            [
+              "Victor Markus",
+              {
+                "w": 3,
+                "l": 9
+              }
+            ],
+            [
+              "justin alt",
+              {
+                "w": 5,
+                "l": 5
+              }
+            ]
+          ]
+        ],
+        [
+          "Drew Davis",
+          [
+            [
+              "Andy Keal",
+              {
+                "w": 6,
+                "l": 6
+              }
+            ],
+            [
+              "Drew Davis",
+              {
+                "w": 0,
+                "l": 0
+              }
+            ],
+            [
+              "Jake Folz",
+              {
+                "w": 7,
+                "l": 5
+              }
+            ],
+            [
+              "James Olson",
+              {
+                "w": 7,
+                "l": 1
+              }
+            ],
+            [
+              "James Stecker",
+              {
+                "w": 4,
+                "l": 5
+              }
+            ],
+            [
+              "Joe Keal",
+              {
+                "w": 5,
+                "l": 5
+              }
+            ],
+            [
+              "Joey Janz",
+              {
+                "w": 5,
+                "l": 4
+              }
+            ],
+            [
+              "Luke Fowler",
+              {
+                "w": 7,
+                "l": 3
+              }
+            ],
+            [
+              "Matt Dallman",
+              {
+                "w": 4,
+                "l": 5
+              }
+            ],
+            [
+              "Peter Toninato",
+              {
+                "w": 3,
+                "l": 0
+              }
+            ],
+            [
+              "Sam Calmes",
+              {
+                "w": 5,
+                "l": 7
+              }
+            ],
+            [
+              "Victor Markus",
+              {
+                "w": 7,
+                "l": 5
+              }
+            ],
+            [
+              "justin alt",
+              {
+                "w": 10,
+                "l": 5
+              }
+            ]
+          ]
+        ],
+        [
+          "Jake Folz",
+          [
+            [
+              "Andy Keal",
+              {
+                "w": 6,
+                "l": 4
+              }
+            ],
+            [
+              "Drew Davis",
+              {
+                "w": 5,
+                "l": 7
+              }
+            ],
+            [
+              "Jake Folz",
+              {
+                "w": 0,
+                "l": 0
+              }
+            ],
+            [
+              "James Olson",
+              {
+                "w": 6,
+                "l": 4
+              }
+            ],
+            [
+              "James Stecker",
+              {
+                "w": 5,
+                "l": 6
+              }
+            ],
+            [
+              "Joe Keal",
+              {
+                "w": 3,
+                "l": 7
+              }
+            ],
+            [
+              "Joey Janz",
+              {
+                "w": 3,
+                "l": 7
+              }
+            ],
+            [
+              "Luke Fowler",
+              {
+                "w": 10,
+                "l": 4
+              }
+            ],
+            [
+              "Matt Dallman",
+              {
+                "w": 7,
+                "l": 6
+              }
+            ],
+            [
+              "Peter Toninato",
+              {
+                "w": 2,
+                "l": 2
+              }
+            ],
+            [
+              "Sam Calmes",
+              {
+                "w": 3,
+                "l": 7
+              }
+            ],
+            [
+              "Victor Markus",
+              {
+                "w": 3,
+                "l": 9
+              }
+            ],
+            [
+              "justin alt",
+              {
+                "w": 5,
+                "l": 4
+              }
+            ]
+          ]
+        ],
+        [
+          "James Olson",
+          [
+            [
+              "Andy Keal",
+              {
+                "w": 3,
+                "l": 6
+              }
+            ],
+            [
+              "Drew Davis",
+              {
+                "w": 1,
+                "l": 7
+              }
+            ],
+            [
+              "Jake Folz",
+              {
+                "w": 4,
+                "l": 6
+              }
+            ],
+            [
+              "James Olson",
+              {
+                "w": 0,
+                "l": 0
+              }
+            ],
+            [
+              "James Stecker",
+              {
+                "w": 5,
+                "l": 4
+              }
+            ],
+            [
+              "Joe Keal",
+              {
+                "w": 2,
+                "l": 7
+              }
+            ],
+            [
+              "Joey Janz",
+              {
+                "w": 7,
+                "l": 1
+              }
+            ],
+            [
+              "Luke Fowler",
+              {
+                "w": 4,
+                "l": 4
+              }
+            ],
+            [
+              "Matt Dallman",
+              {
+                "w": 5,
+                "l": 3
+              }
+            ],
+            [
+              "Sam Calmes",
+              {
+                "w": 4,
+                "l": 4
+              }
+            ],
+            [
+              "Victor Markus",
+              {
+                "w": 4,
+                "l": 3
+              }
+            ],
+            [
+              "justin alt",
+              {
+                "w": 5,
+                "l": 5
+              }
+            ]
+          ]
+        ],
+        [
+          "James Stecker",
+          [
+            [
+              "Andy Keal",
+              {
+                "w": 4,
+                "l": 8
+              }
+            ],
+            [
+              "Drew Davis",
+              {
+                "w": 5,
+                "l": 4
+              }
+            ],
+            [
+              "Jake Folz",
+              {
+                "w": 6,
+                "l": 5
+              }
+            ],
+            [
+              "James Olson",
+              {
+                "w": 4,
+                "l": 5
+              }
+            ],
+            [
+              "James Stecker",
+              {
+                "w": 0,
+                "l": 0
+              }
+            ],
+            [
+              "Joe Keal",
+              {
+                "w": 10,
+                "l": 3
+              }
+            ],
+            [
+              "Joey Janz",
+              {
+                "w": 6,
+                "l": 5
+              }
+            ],
+            [
+              "Luke Fowler",
+              {
+                "w": 4,
+                "l": 6
+              }
+            ],
+            [
+              "Matt Dallman",
+              {
+                "w": 4,
+                "l": 6
+              }
+            ],
+            [
+              "Peter Toninato",
+              {
+                "w": 1,
+                "l": 1
+              }
+            ],
+            [
+              "Sam Calmes",
+              {
+                "w": 3,
+                "l": 9
+              }
+            ],
+            [
+              "Victor Markus",
+              {
+                "w": 7,
+                "l": 3
+              }
+            ],
+            [
+              "justin alt",
+              {
+                "w": 5,
+                "l": 9
+              }
+            ]
+          ]
+        ],
+        [
+          "Joe Keal",
+          [
+            [
+              "Andy Keal",
+              {
+                "w": 3,
+                "l": 8
+              }
+            ],
+            [
+              "Drew Davis",
+              {
+                "w": 5,
+                "l": 5
+              }
+            ],
+            [
+              "Jake Folz",
+              {
+                "w": 7,
+                "l": 3
+              }
+            ],
+            [
+              "James Olson",
+              {
+                "w": 7,
+                "l": 2
+              }
+            ],
+            [
+              "James Stecker",
+              {
+                "w": 3,
+                "l": 10
+              }
+            ],
+            [
+              "Joe Keal",
+              {
+                "w": 0,
+                "l": 0
+              }
+            ],
+            [
+              "Joey Janz",
+              {
+                "w": 4,
+                "l": 10
+              }
+            ],
+            [
+              "Luke Fowler",
+              {
+                "w": 8,
+                "l": 4
+              }
+            ],
+            [
+              "Matt Dallman",
+              {
+                "w": 6,
+                "l": 7
+              }
+            ],
+            [
+              "Peter Toninato",
+              {
+                "w": 1,
+                "l": 3
+              }
+            ],
+            [
+              "Sam Calmes",
+              {
+                "w": 3,
+                "l": 6
+              }
+            ],
+            [
+              "Victor Markus",
+              {
+                "w": 5,
+                "l": 7
+              }
+            ],
+            [
+              "justin alt",
+              {
+                "w": 6,
+                "l": 3
+              }
+            ]
+          ]
+        ],
+        [
+          "Joey Janz",
+          [
+            [
+              "Andy Keal",
+              {
+                "w": 5,
+                "l": 5
+              }
+            ],
+            [
+              "Drew Davis",
+              {
+                "w": 4,
+                "l": 5
+              }
+            ],
+            [
+              "Jake Folz",
+              {
+                "w": 7,
+                "l": 3
+              }
+            ],
+            [
+              "James Olson",
+              {
+                "w": 1,
+                "l": 7
+              }
+            ],
+            [
+              "James Stecker",
+              {
+                "w": 5,
+                "l": 6
+              }
+            ],
+            [
+              "Joe Keal",
+              {
+                "w": 10,
+                "l": 4
+              }
+            ],
+            [
+              "Joey Janz",
+              {
+                "w": 0,
+                "l": 0
+              }
+            ],
+            [
+              "Luke Fowler",
+              {
+                "w": 6,
+                "l": 5
+              }
+            ],
+            [
+              "Matt Dallman",
+              {
+                "w": 4,
+                "l": 7
+              }
+            ],
+            [
+              "Peter Toninato",
+              {
+                "w": 2,
+                "l": 1
+              }
+            ],
+            [
+              "Sam Calmes",
+              {
+                "w": 6,
+                "l": 5
+              }
+            ],
+            [
+              "Victor Markus",
+              {
+                "w": 10,
+                "l": 5
+              }
+            ],
+            [
+              "justin alt",
+              {
+                "w": 6,
+                "l": 6
+              }
+            ]
+          ]
+        ],
+        [
+          "Luke Fowler",
+          [
+            [
+              "Andy Keal",
+              {
+                "w": 3,
+                "l": 6
+              }
+            ],
+            [
+              "Drew Davis",
+              {
+                "w": 3,
+                "l": 7
+              }
+            ],
+            [
+              "Jake Folz",
+              {
+                "w": 4,
+                "l": 10
+              }
+            ],
+            [
+              "James Olson",
+              {
+                "w": 4,
+                "l": 4
+              }
+            ],
+            [
+              "James Stecker",
+              {
+                "w": 6,
+                "l": 4
+              }
+            ],
+            [
+              "Joe Keal",
+              {
+                "w": 4,
+                "l": 8
+              }
+            ],
+            [
+              "Joey Janz",
+              {
+                "w": 5,
+                "l": 6
+              }
+            ],
+            [
+              "Luke Fowler",
+              {
+                "w": 0,
+                "l": 0
+              }
+            ],
+            [
+              "Matt Dallman",
+              {
+                "w": 3,
+                "l": 8
+              }
+            ],
+            [
+              "Peter Toninato",
+              {
+                "w": 0,
+                "l": 2
+              }
+            ],
+            [
+              "Sam Calmes",
+              {
+                "w": 6,
+                "l": 6
+              }
+            ],
+            [
+              "Victor Markus",
+              {
+                "w": 7,
+                "l": 4
+              }
+            ],
+            [
+              "justin alt",
+              {
+                "w": 6,
+                "l": 7
+              }
+            ]
+          ]
+        ],
+        [
+          "Matt Dallman",
+          [
+            [
+              "Andy Keal",
+              {
+                "w": 8,
+                "l": 6
+              }
+            ],
+            [
+              "Drew Davis",
+              {
+                "w": 5,
+                "l": 4
+              }
+            ],
+            [
+              "Jake Folz",
+              {
+                "w": 6,
+                "l": 7
+              }
+            ],
+            [
+              "James Olson",
+              {
+                "w": 3,
+                "l": 5
+              }
+            ],
+            [
+              "James Stecker",
+              {
+                "w": 6,
+                "l": 4
+              }
+            ],
+            [
+              "Joe Keal",
+              {
+                "w": 7,
+                "l": 6
+              }
+            ],
+            [
+              "Joey Janz",
+              {
+                "w": 7,
+                "l": 4
+              }
+            ],
+            [
+              "Luke Fowler",
+              {
+                "w": 8,
+                "l": 3
+              }
+            ],
+            [
+              "Matt Dallman",
+              {
+                "w": 0,
+                "l": 0
+              }
+            ],
+            [
+              "Peter Toninato",
+              {
+                "w": 1,
+                "l": 1
+              }
+            ],
+            [
+              "Sam Calmes",
+              {
+                "w": 2,
+                "l": 13
+              }
+            ],
+            [
+              "Victor Markus",
+              {
+                "w": 4,
+                "l": 5
+              }
+            ],
+            [
+              "justin alt",
+              {
+                "w": 4,
+                "l": 6
+              }
+            ]
+          ]
+        ],
+        [
+          "Peter Toninato",
+          [
+            [
+              "Andy Keal",
+              {
+                "w": 0,
+                "l": 4
+              }
+            ],
+            [
+              "Drew Davis",
+              {
+                "w": 0,
+                "l": 3
+              }
+            ],
+            [
+              "Jake Folz",
+              {
+                "w": 2,
+                "l": 2
+              }
+            ],
+            [
+              "James Stecker",
+              {
+                "w": 1,
+                "l": 1
+              }
+            ],
+            [
+              "Joe Keal",
+              {
+                "w": 3,
+                "l": 1
+              }
+            ],
+            [
+              "Joey Janz",
+              {
+                "w": 1,
+                "l": 2
+              }
+            ],
+            [
+              "Luke Fowler",
+              {
+                "w": 2,
+                "l": 0
+              }
+            ],
+            [
+              "Matt Dallman",
+              {
+                "w": 1,
+                "l": 1
+              }
+            ],
+            [
+              "Peter Toninato",
+              {
+                "w": 0,
+                "l": 0
+              }
+            ],
+            [
+              "Sam Calmes",
+              {
+                "w": 2,
+                "l": 2
+              }
+            ],
+            [
+              "Victor Markus",
+              {
+                "w": 2,
+                "l": 0
+              }
+            ],
+            [
+              "justin alt",
+              {
+                "w": 0,
+                "l": 2
+              }
+            ]
+          ]
+        ],
+        [
+          "Sam Calmes",
+          [
+            [
+              "Andy Keal",
+              {
+                "w": 5,
+                "l": 5
+              }
+            ],
+            [
+              "Drew Davis",
+              {
+                "w": 7,
+                "l": 5
+              }
+            ],
+            [
+              "Jake Folz",
+              {
+                "w": 7,
+                "l": 3
+              }
+            ],
+            [
+              "James Olson",
+              {
+                "w": 4,
+                "l": 4
+              }
+            ],
+            [
+              "James Stecker",
+              {
+                "w": 9,
+                "l": 3
+              }
+            ],
+            [
+              "Joe Keal",
+              {
+                "w": 6,
+                "l": 3
+              }
+            ],
+            [
+              "Joey Janz",
+              {
+                "w": 5,
+                "l": 6
+              }
+            ],
+            [
+              "Luke Fowler",
+              {
+                "w": 6,
+                "l": 6
+              }
+            ],
+            [
+              "Matt Dallman",
+              {
+                "w": 13,
+                "l": 2
+              }
+            ],
+            [
+              "Peter Toninato",
+              {
+                "w": 2,
+                "l": 2
+              }
+            ],
+            [
+              "Sam Calmes",
+              {
+                "w": 0,
+                "l": 0
+              }
+            ],
+            [
+              "Victor Markus",
+              {
+                "w": 7,
+                "l": 5
+              }
+            ],
+            [
+              "justin alt",
+              {
+                "w": 5,
+                "l": 4
+              }
+            ]
+          ]
+        ],
+        [
+          "Victor Markus",
+          [
+            [
+              "Andy Keal",
+              {
+                "w": 9,
+                "l": 3
+              }
+            ],
+            [
+              "Drew Davis",
+              {
+                "w": 5,
+                "l": 7
+              }
+            ],
+            [
+              "Jake Folz",
+              {
+                "w": 9,
+                "l": 3
+              }
+            ],
+            [
+              "James Olson",
+              {
+                "w": 3,
+                "l": 4
+              }
+            ],
+            [
+              "James Stecker",
+              {
+                "w": 3,
+                "l": 7
+              }
+            ],
+            [
+              "Joe Keal",
+              {
+                "w": 7,
+                "l": 5
+              }
+            ],
+            [
+              "Joey Janz",
+              {
+                "w": 5,
+                "l": 10
+              }
+            ],
+            [
+              "Luke Fowler",
+              {
+                "w": 4,
+                "l": 7
+              }
+            ],
+            [
+              "Matt Dallman",
+              {
+                "w": 5,
+                "l": 4
+              }
+            ],
+            [
+              "Peter Toninato",
+              {
+                "w": 0,
+                "l": 2
+              }
+            ],
+            [
+              "Sam Calmes",
+              {
+                "w": 5,
+                "l": 7
+              }
+            ],
+            [
+              "Victor Markus",
+              {
+                "w": 0,
+                "l": 0
+              }
+            ],
+            [
+              "justin alt",
+              {
+                "w": 5,
+                "l": 6
+              }
+            ]
+          ]
+        ],
+        [
+          "justin alt",
+          [
+            [
+              "Andy Keal",
+              {
+                "w": 5,
+                "l": 5
+              }
+            ],
+            [
+              "Drew Davis",
+              {
+                "w": 5,
+                "l": 10
+              }
+            ],
+            [
+              "Jake Folz",
+              {
+                "w": 4,
+                "l": 5
+              }
+            ],
+            [
+              "James Olson",
+              {
+                "w": 5,
+                "l": 5
+              }
+            ],
+            [
+              "James Stecker",
+              {
+                "w": 9,
+                "l": 5
+              }
+            ],
+            [
+              "Joe Keal",
+              {
+                "w": 3,
+                "l": 6
+              }
+            ],
+            [
+              "Joey Janz",
+              {
+                "w": 6,
+                "l": 6
+              }
+            ],
+            [
+              "Luke Fowler",
+              {
+                "w": 7,
+                "l": 6
+              }
+            ],
+            [
+              "Matt Dallman",
+              {
+                "w": 6,
+                "l": 4
+              }
+            ],
+            [
+              "Peter Toninato",
+              {
+                "w": 2,
+                "l": 0
+              }
+            ],
+            [
+              "Sam Calmes",
+              {
+                "w": 4,
+                "l": 5
+              }
+            ],
+            [
+              "Victor Markus",
+              {
+                "w": 6,
+                "l": 5
+              }
+            ],
+            [
+              "justin alt",
+              {
+                "w": 0,
+                "l": 0
+              }
+            ]
+          ]
+        ]
+      ]
+    }
+  }
+}
